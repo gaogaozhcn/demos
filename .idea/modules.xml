@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demos.iml" filepath="$PROJECT_DIR$/.idea/demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/design/design.iml" filepath="$PROJECT_DIR$/main/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/shiro/shiro.iml" filepath="$PROJECT_DIR$/main/shiro/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/socket/socket.iml" filepath="$PROJECT_DIR$/main/socket/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/spring/spring.iml" filepath="$PROJECT_DIR$/main/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/test/test.iml" filepath="$PROJECT_DIR$/main/test/test.iml" />
+    </modules>
+  </component>
+</project>

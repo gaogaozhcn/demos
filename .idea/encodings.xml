@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/design" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/socket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/test" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
